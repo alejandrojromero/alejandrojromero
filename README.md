@@ -4,7 +4,6 @@ I'm Alejandro, a full stack developer and user experience designer from Puerto R
 Learn more about my work at https://www.alejandroromero.me/
 
 ![ScreenShot](Preview.png)
-![Alejandro Romero logo](https://github.com/alejandrojromero/alejandrojromero/blob/master/Preview.png)
 
 <!--
 **alejandrojromero/alejandrojromero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
