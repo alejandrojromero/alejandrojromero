@@ -1,5 +1,5 @@
 ### Hey! 👋
-I'm Alejandro, a developer and desigenr from Puerto Rico with a passion for crafting interactive experiences. I'm currently an intenr at NASA working on the future of Mars exploration using Virtual Reality!
+I'm Alejandro, a full stack developer and user experience designer from Puerto Rico with a passion for crafting interactive experiences. I'm currently an intern at NASA working on the future of Mars exploration using Virtual Reality! Learn more about me at https://www.alejandroromero.me/
 
 <!--
 **alejandrojromero/alejandrojromero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
