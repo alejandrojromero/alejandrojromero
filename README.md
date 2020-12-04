@@ -3,6 +3,7 @@ I'm Alejandro, a full stack developer and user experience designer from Puerto R
 
 Learn more about my work at https://www.alejandroromero.me/
 
+![ScreenShot](Preview.png)
 ![Alejandro Romero logo](https://github.com/alejandrojromero/alejandrojromero/blob/master/Preview.png)
 
 <!--
