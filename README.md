@@ -3,7 +3,7 @@ I'm Alejandro, a full stack developer and user experience designer from Puerto R
 
 Learn more about my work at https://www.alejandroromero.me/
 
-![alt text](https://github.com/alejandrojromero/alejandrojromero/blob/Main/Preview.png?raw=true)
+(Preview.png)
 
 <!--
 **alejandrojromero/alejandrojromero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
